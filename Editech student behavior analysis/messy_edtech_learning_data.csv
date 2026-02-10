@@ -1,0 +1,361 @@
+student_id,course,enrollment_channel,status,enrollment_date,completion_time_days,feedback_score
+1,,Mobile App,Dropped,2023-11-24,15.0,
+2,Python Basics,Email Campaign,,2023-03-13,14.0,3.9
+3,Power BI,,In Progress,2023-01-16,12.0,1.6
+4,Data Science,Email Campaign,,2023-01-14,72.0,
+5,Excel for Business,Mobile App,Completed,2023-08-18,,3.4
+6,Machine Learning,Mobile App,In Progress,2023-08-05,,
+7,Machine Learning,Referral,Completed,2023-02-22,,4.3
+8,,,Not Started,2023-11-06,34.0,1.7
+9,Power BI,Referral,,2023-07-13,,2.2
+10,Python Basics,Referral,In Progress,2023-04-09,9.0,2.7
+11,Excel for Business,Email Campaign,Dropped,2023-04-30,,3.4
+12,Excel for Business,Mobile App,Dropped,2023-07-06,,2.2
+13,Power BI,Mobile App,,2023-05-17,90.0,2.8
+14,Excel for Business,Referral,Not Started,2023-05-06,,1.8
+15,Data Science,Website,Dropped,2023-12-19,72.0,3.4
+16,Data Science,Website,Dropped,2023-01-17,,3.4
+17,Excel for Business,Email Campaign,Not Started,2023-10-18,41.0,
+18,Excel for Business,Mobile App,In Progress,2023-08-23,,4.9
+19,Power BI,Email Campaign,,2023-10-15,,2.2
+20,SQL Fundamentals,,In Progress,2023-07-24,47.0,3.7
+21,,Mobile App,In Progress,2023-02-16,7.0,1.5
+22,Power BI,Email Campaign,Not Started,2023-08-05,77.0,
+23,Excel for Business,Website,,2023-08-28,,2.0
+24,Machine Learning,Website,Dropped,2023-02-28,,2.2
+25,Power BI,Referral,Completed,2023-08-11,,3.2
+26,Power BI,,Dropped,2023-04-02,65.0,4.9
+27,Power BI,,In Progress,2023-04-12,,
+28,Python Basics,Website,Not Started,2023-01-01,,
+29,Power BI,Mobile App,Completed,2023-07-05,40.0,1.4
+30,Data Science,,Completed,2023-02-10,,1.2
+31,Machine Learning,Mobile App,,2023-03-07,,2.6
+32,Excel for Business,,In Progress,2023-09-28,,4.3
+33,SQL Fundamentals,Referral,Not Started,2023-12-20,,2.1
+34,Python Basics,Mobile App,In Progress,2023-09-22,58.0,1.6
+35,Python Basics,Mobile App,,2023-06-23,3.0,
+36,Python Basics,Website,In Progress,2023-02-06,81.0,4.1
+37,Data Science,Email Campaign,Dropped,2023-06-19,10.0,1.0
+38,SQL Fundamentals,Email Campaign,In Progress,2023-10-04,,3.8
+39,SQL Fundamentals,Referral,Not Started,2023-04-08,13.0,4.1
+40,SQL Fundamentals,Website,Completed,2023-07-30,60.0,2.4
+41,Power BI,Mobile App,In Progress,2023-06-23,14.0,4.5
+42,SQL Fundamentals,Referral,In Progress,2023-08-18,,2.3
+43,,Website,,2023-05-08,,2.2
+44,Data Science,Mobile App,Completed,2023-11-30,70.0,3.9
+45,Python Basics,Email Campaign,In Progress,2023-07-28,,4.5
+46,SQL Fundamentals,Referral,Not Started,2023-03-26,49.0,1.5
+47,Machine Learning,Mobile App,In Progress,2023-05-27,,4.0
+48,Python Basics,Website,Dropped,2023-04-22,8.0,4.1
+49,Python Basics,,Completed,2023-10-27,62.0,3.1
+50,,Email Campaign,In Progress,2023-04-06,9.0,1.1
+51,,Website,,2023-10-19,32.0,1.1
+52,Excel for Business,Mobile App,Dropped,2023-12-03,,2.3
+53,Excel for Business,Mobile App,Not Started,2023-06-10,,4.6
+54,Python Basics,Website,Dropped,2023-11-27,,2.6
+55,Data Science,,Completed,2023-08-23,80.0,1.9
+56,Data Science,Website,Dropped,2023-09-17,34.0,2.2
+57,Excel for Business,,Not Started,2023-07-09,37.0,4.7
+58,Excel for Business,Referral,,2023-06-04,79.0,
+59,Excel for Business,Website,Completed,2023-02-23,,4.2
+60,Data Science,,Dropped,2023-10-11,,4.6
+61,Machine Learning,Email Campaign,,2023-06-25,,
+62,Python Basics,Website,Dropped,2023-01-27,,2.3
+63,Power BI,Email Campaign,In Progress,2023-06-20,,1.9
+64,Excel for Business,Website,Completed,2023-12-28,55.0,
+65,Power BI,,Dropped,2023-03-18,70.0,1.0
+66,Machine Learning,Referral,Completed,2023-03-17,56.0,2.7
+67,Machine Learning,Website,In Progress,2023-01-21,46.0,1.5
+68,Data Science,Mobile App,In Progress,2023-10-14,53.0,4.8
+69,Excel for Business,Email Campaign,Dropped,2023-07-31,4.0,3.1
+70,Python Basics,Email Campaign,Completed,2023-05-08,35.0,
+71,,Referral,Not Started,2023-08-29,29.0,4.8
+72,Machine Learning,Email Campaign,In Progress,2023-04-27,29.0,3.0
+73,SQL Fundamentals,,Dropped,2023-05-23,,2.1
+74,Machine Learning,Website,Completed,2023-12-14,,3.4
+75,,Website,Completed,2023-04-02,,1.2
+76,Power BI,,Not Started,2023-08-11,,4.6
+77,Excel for Business,Website,Dropped,2023-03-01,50.0,1.6
+78,Python Basics,Email Campaign,Dropped,2023-08-12,1.0,4.9
+79,Power BI,Referral,Completed,2023-12-07,,3.7
+80,Excel for Business,Email Campaign,Dropped,2023-06-08,,2.0
+81,Excel for Business,Email Campaign,In Progress,2023-06-01,71.0,2.5
+82,Machine Learning,,,2023-07-14,87.0,3.5
+83,Data Science,Referral,Dropped,2023-07-27,71.0,1.4
+84,SQL Fundamentals,Email Campaign,Not Started,2023-08-09,,2.3
+85,Machine Learning,Website,In Progress,2023-12-12,,1.2
+86,Excel for Business,Mobile App,Completed,2023-09-21,,3.7
+87,Python Basics,Website,In Progress,2023-06-08,29.0,3.0
+88,Excel for Business,Email Campaign,Not Started,2023-05-06,61.0,3.6
+89,Data Science,Email Campaign,Not Started,2023-10-22,,3.8
+90,Data Science,Email Campaign,Completed,2023-03-17,84.0,4.7
+91,Data Science,,Completed,2023-04-01,,2.4
+92,,,Not Started,2023-03-04,59.0,
+93,SQL Fundamentals,,,2023-11-01,,2.0
+94,Machine Learning,Email Campaign,Not Started,2023-10-08,58.0,4.3
+95,Excel for Business,Email Campaign,,2023-05-07,,3.1
+96,Data Science,Referral,Completed,2023-05-03,,
+97,Data Science,Website,,2023-05-20,,4.6
+98,Python Basics,Mobile App,In Progress,2023-03-19,,2.4
+99,SQL Fundamentals,Email Campaign,,2023-08-01,,
+100,Excel for Business,,Not Started,2023-02-01,,4.5
+101,Machine Learning,Website,Not Started,2023-01-11,,3.6
+102,Power BI,,,2023-06-02,,
+103,SQL Fundamentals,Email Campaign,Dropped,2023-04-23,63.0,3.4
+104,SQL Fundamentals,Mobile App,Not Started,2023-01-15,,1.4
+105,Power BI,,Not Started,2023-03-07,80.0,1.0
+106,SQL Fundamentals,Mobile App,Not Started,2023-12-06,4.0,3.2
+107,Data Science,Referral,Not Started,2023-04-04,,3.6
+108,SQL Fundamentals,Referral,Not Started,2023-08-21,,3.8
+109,Python Basics,,Completed,2023-05-10,,2.3
+110,Data Science,Website,Completed,2023-06-29,29.0,3.6
+111,SQL Fundamentals,Mobile App,In Progress,2023-04-13,3.0,3.6
+112,,Referral,Not Started,2023-12-09,15.0,1.4
+113,Python Basics,Referral,In Progress,2023-03-27,78.0,2.1
+114,SQL Fundamentals,Email Campaign,,2023-10-24,,4.9
+115,Excel for Business,Referral,Completed,2023-04-12,10.0,4.6
+116,SQL Fundamentals,,Dropped,2023-11-04,16.0,4.2
+117,Python Basics,Referral,,2023-12-05,48.0,3.3
+118,,Referral,Not Started,2023-08-04,63.0,1.8
+119,Excel for Business,,In Progress,2023-08-24,,2.1
+120,Excel for Business,Email Campaign,Not Started,2023-05-19,,3.6
+121,Machine Learning,Website,In Progress,2023-10-31,,
+122,Excel for Business,,,2023-08-19,,4.7
+123,Data Science,Referral,Not Started,2023-07-14,44.0,
+124,Machine Learning,Referral,Dropped,2023-09-07,,
+125,Power BI,Website,,2023-11-02,,
+126,Power BI,Email Campaign,Not Started,2023-04-08,11.0,2.2
+127,Python Basics,Email Campaign,Not Started,2023-05-04,,4.4
+128,Machine Learning,Mobile App,Not Started,2023-02-17,38.0,1.7
+129,Power BI,,Not Started,2023-12-06,,4.7
+130,Machine Learning,Email Campaign,Dropped,2023-06-26,,3.3
+131,Machine Learning,Mobile App,Completed,2023-06-06,33.0,
+132,Excel for Business,Mobile App,In Progress,2023-03-03,69.0,1.6
+133,Machine Learning,Mobile App,Completed,2023-09-05,,4.5
+134,Excel for Business,Website,Dropped,2023-04-27,47.0,3.8
+135,Power BI,Website,Completed,2023-10-01,,2.4
+136,Python Basics,Website,Not Started,2023-05-30,90.0,4.2
+137,Machine Learning,Email Campaign,Not Started,2023-10-21,,
+138,Python Basics,Website,Not Started,2023-04-05,,3.0
+139,Data Science,Website,,2023-07-25,63.0,4.2
+140,Python Basics,Mobile App,Completed,2023-03-18,,3.8
+141,SQL Fundamentals,Email Campaign,,2023-10-13,54.0,4.6
+142,Power BI,,Dropped,2023-08-15,,2.5
+143,Machine Learning,Mobile App,In Progress,2023-01-31,79.0,3.3
+144,,Mobile App,In Progress,2023-12-05,11.0,2.9
+145,Excel for Business,Email Campaign,Not Started,2023-02-08,21.0,2.1
+146,Machine Learning,Mobile App,Completed,2023-11-01,,1.1
+147,Machine Learning,Mobile App,Completed,2023-12-28,,4.3
+148,Power BI,Website,Not Started,2023-11-17,76.0,1.5
+149,Python Basics,Mobile App,Dropped,2023-04-26,83.0,4.1
+150,Machine Learning,,,2023-01-31,,3.5
+151,Machine Learning,Email Campaign,Dropped,2023-08-13,,1.2
+152,Power BI,Website,Not Started,2023-09-14,,3.2
+153,Python Basics,Referral,,2023-01-21,,
+154,Python Basics,,Dropped,2023-02-16,30.0,3.1
+155,Power BI,Mobile App,Dropped,2023-03-31,,4.2
+156,Machine Learning,Email Campaign,Completed,2023-08-12,,2.8
+157,Machine Learning,Mobile App,Completed,2023-07-29,,
+158,Power BI,Email Campaign,Dropped,2023-07-30,,4.3
+159,Machine Learning,Referral,Dropped,2023-01-19,59.0,2.6
+160,SQL Fundamentals,Email Campaign,,2023-03-01,52.0,1.6
+161,Excel for Business,Email Campaign,,2023-01-28,,3.2
+162,Data Science,,Dropped,2023-08-15,7.0,3.6
+163,Excel for Business,Website,Completed,2023-05-28,,4.8
+164,Python Basics,,Dropped,2023-11-08,31.0,3.2
+165,SQL Fundamentals,Website,In Progress,2023-10-10,53.0,2.7
+166,Power BI,Referral,Not Started,2023-03-02,83.0,2.4
+167,Data Science,Email Campaign,Not Started,2023-12-28,,1.1
+168,Power BI,Mobile App,Not Started,2023-08-22,71.0,1.2
+169,Machine Learning,Email Campaign,Dropped,2023-09-18,18.0,4.4
+170,Power BI,Referral,Dropped,2023-09-17,35.0,2.9
+171,Power BI,Email Campaign,In Progress,2023-10-24,,3.0
+172,SQL Fundamentals,,,2023-09-05,,1.7
+173,SQL Fundamentals,,In Progress,2023-08-22,42.0,2.6
+174,Excel for Business,Email Campaign,Dropped,2023-04-30,53.0,3.5
+175,Data Science,Website,Not Started,2023-07-15,50.0,2.5
+176,Python Basics,Email Campaign,Completed,2023-09-15,,
+177,Excel for Business,Email Campaign,In Progress,2023-09-27,59.0,3.6
+178,Power BI,Referral,Dropped,2023-03-21,,1.3
+179,SQL Fundamentals,,Dropped,2023-12-21,51.0,1.1
+180,Power BI,Website,,2023-06-12,,4.8
+181,SQL Fundamentals,Website,In Progress,2023-02-05,,2.6
+182,Excel for Business,Mobile App,Not Started,2023-02-20,82.0,2.8
+183,Machine Learning,Website,Dropped,2023-06-03,4.0,4.8
+184,Power BI,Mobile App,In Progress,2023-07-03,,
+185,Python Basics,Mobile App,In Progress,2023-07-30,73.0,1.8
+186,Data Science,,Not Started,2023-11-09,49.0,1.4
+187,Excel for Business,Referral,Not Started,2023-04-29,,1.4
+188,Python Basics,Mobile App,,2023-01-05,,1.3
+189,SQL Fundamentals,Referral,Not Started,2023-08-15,,4.4
+190,Data Science,Website,Not Started,2023-06-04,,4.3
+191,,Referral,,2023-07-15,,1.5
+192,Power BI,Website,Dropped,2023-06-01,,
+193,Power BI,Mobile App,Dropped,2023-12-18,,3.9
+194,Excel for Business,Referral,,2023-06-30,29.0,2.1
+195,Machine Learning,Website,Completed,2023-12-04,88.0,4.0
+196,Machine Learning,Website,In Progress,2023-08-14,,5.0
+197,Power BI,Mobile App,In Progress,2023-06-17,54.0,2.5
+198,SQL Fundamentals,Referral,In Progress,2023-07-07,,
+199,Data Science,Website,Not Started,2023-06-01,44.0,4.4
+200,Python Basics,Referral,,2023-04-26,,4.0
+201,SQL Fundamentals,Website,,2023-07-22,,
+202,Excel for Business,Email Campaign,,2023-07-08,,3.0
+203,Power BI,Website,Not Started,2023-07-10,14.0,
+204,,Email Campaign,Completed,2023-10-15,42.0,2.6
+205,Python Basics,Mobile App,Completed,2023-06-04,,4.6
+206,,Website,Completed,2023-01-20,,
+207,Excel for Business,Referral,Not Started,2023-10-03,,4.8
+208,SQL Fundamentals,Mobile App,,2023-12-23,,3.5
+209,Machine Learning,Email Campaign,,2023-12-02,,2.2
+210,SQL Fundamentals,Email Campaign,In Progress,2023-01-17,,3.7
+211,Excel for Business,,Dropped,2023-05-01,47.0,4.2
+212,Python Basics,Mobile App,Dropped,2023-07-03,,1.4
+213,,Website,,2023-08-21,12.0,1.2
+214,Python Basics,Mobile App,,2023-06-20,32.0,
+215,Data Science,Referral,In Progress,2023-10-11,27.0,2.4
+216,Power BI,Mobile App,In Progress,2023-11-02,,1.6
+217,Python Basics,Mobile App,Completed,2023-05-09,23.0,3.5
+218,Machine Learning,Mobile App,Completed,2023-07-03,,1.3
+219,Excel for Business,Website,,2023-01-27,,1.3
+220,Power BI,,Dropped,2023-02-02,,3.8
+221,Excel for Business,Website,,2023-02-25,58.0,
+222,Python Basics,Website,Not Started,2023-12-04,,2.5
+223,Excel for Business,Email Campaign,Completed,2023-09-03,,
+224,Data Science,,Dropped,2023-08-16,10.0,4.9
+225,Power BI,,,2023-02-03,,2.5
+226,Machine Learning,,,2023-12-31,,4.1
+227,Excel for Business,Website,Completed,2023-08-21,,
+228,Data Science,Email Campaign,Not Started,2023-11-30,71.0,1.4
+229,Excel for Business,Email Campaign,Not Started,2023-07-31,,1.0
+230,,Referral,Dropped,2023-02-18,,1.2
+231,Python Basics,Website,Completed,2023-03-20,,1.5
+232,Power BI,Mobile App,Dropped,2023-02-17,56.0,4.0
+233,Machine Learning,Email Campaign,Completed,2023-01-31,,4.8
+234,Machine Learning,,Dropped,2023-12-07,55.0,
+235,Data Science,Email Campaign,In Progress,2023-06-30,14.0,
+236,,Referral,Completed,2023-02-25,,
+237,Python Basics,Referral,,2023-04-26,55.0,
+238,Python Basics,Referral,Dropped,2023-04-03,,
+239,Excel for Business,Mobile App,Completed,2023-04-03,,1.3
+240,SQL Fundamentals,Mobile App,,2023-11-21,4.0,4.9
+241,Machine Learning,Referral,In Progress,2023-08-03,,3.5
+242,Data Science,Mobile App,Completed,2023-06-16,73.0,2.8
+243,Excel for Business,Email Campaign,Dropped,2023-11-13,7.0,
+244,Data Science,Referral,Not Started,2023-08-06,,1.2
+245,Machine Learning,Website,Not Started,2023-09-20,,
+246,Python Basics,Referral,,2023-12-14,,2.8
+247,Machine Learning,Mobile App,Completed,2023-04-23,51.0,2.1
+248,Python Basics,Referral,Dropped,2023-04-19,,2.9
+249,SQL Fundamentals,Mobile App,In Progress,2023-01-04,,3.3
+250,Excel for Business,Email Campaign,Completed,2023-09-30,,
+251,Machine Learning,Website,Not Started,2023-01-22,56.0,3.8
+252,Python Basics,Referral,Not Started,2023-10-22,,2.2
+253,SQL Fundamentals,,In Progress,2023-07-27,,3.7
+254,Data Science,Website,Not Started,2023-12-20,47.0,4.6
+255,SQL Fundamentals,Website,,2023-08-12,,4.8
+256,Python Basics,Mobile App,Dropped,2023-06-08,44.0,3.5
+257,,,,2023-09-19,82.0,
+258,Data Science,Website,In Progress,2023-06-28,45.0,1.2
+259,Excel for Business,Mobile App,,2023-05-12,26.0,2.5
+260,Power BI,,Not Started,2023-02-08,,4.9
+261,SQL Fundamentals,Mobile App,Dropped,2023-08-18,,3.4
+262,Power BI,Referral,Dropped,2023-02-04,,4.9
+263,SQL Fundamentals,Email Campaign,Dropped,2023-01-29,46.0,4.4
+264,Excel for Business,Website,Dropped,2023-01-20,,2.7
+265,Power BI,,Not Started,2023-02-16,,
+266,SQL Fundamentals,,Dropped,2023-01-22,58.0,
+267,Machine Learning,Website,Not Started,2023-09-14,20.0,5.0
+268,Excel for Business,Mobile App,Completed,2024-01-01,11.0,
+269,Machine Learning,Referral,Dropped,2023-08-13,57.0,4.4
+270,Excel for Business,Website,,2023-07-18,,2.8
+271,Power BI,Website,Dropped,2023-11-28,43.0,4.8
+272,Data Science,,Dropped,2023-12-14,,1.9
+273,Excel for Business,Referral,Dropped,2023-06-20,11.0,3.5
+274,Excel for Business,,In Progress,2023-12-24,,1.5
+275,Excel for Business,Mobile App,Dropped,2023-02-13,,3.1
+276,Machine Learning,,Not Started,2023-12-26,88.0,
+277,Machine Learning,Mobile App,In Progress,2023-01-10,,3.2
+278,Python Basics,Mobile App,In Progress,2023-09-06,25.0,4.5
+279,Data Science,,Dropped,2023-06-01,13.0,1.5
+280,Excel for Business,Mobile App,In Progress,2023-11-02,49.0,4.0
+281,Machine Learning,Email Campaign,Completed,2023-11-16,,3.8
+282,Excel for Business,Referral,,2023-12-13,,1.5
+283,Data Science,Email Campaign,Dropped,2023-08-18,30.0,2.4
+284,SQL Fundamentals,Referral,Not Started,2023-07-08,,2.6
+285,Power BI,Mobile App,In Progress,2023-09-15,,4.6
+286,Power BI,Referral,Not Started,2023-03-12,33.0,3.1
+287,Data Science,Website,Dropped,2023-02-22,67.0,2.6
+288,Data Science,Website,Not Started,2023-05-20,58.0,
+289,SQL Fundamentals,Website,Not Started,2023-08-19,45.0,
+290,Machine Learning,Website,Not Started,2023-09-15,48.0,3.0
+291,Data Science,Referral,Completed,2023-04-25,,
+292,Excel for Business,Mobile App,Not Started,2023-03-12,,3.0
+293,Machine Learning,Website,Completed,2023-08-29,58.0,3.5
+294,Data Science,Referral,Completed,2023-04-21,,1.3
+295,Excel for Business,Email Campaign,In Progress,2023-06-04,16.0,1.5
+296,Power BI,Email Campaign,Completed,2023-11-15,59.0,1.6
+297,SQL Fundamentals,Referral,In Progress,2023-10-02,3.0,1.7
+298,SQL Fundamentals,,In Progress,2023-01-01,,4.6
+299,Python Basics,Referral,,2023-04-06,86.0,3.7
+300,Python Basics,Email Campaign,Not Started,2023-09-27,70.0,1.8
+301,Machine Learning,Website,Dropped,2023-11-22,,1.7
+302,Excel for Business,,Completed,2023-02-04,45.0,1.7
+303,Machine Learning,,Dropped,2023-06-20,18.0,1.5
+304,Data Science,Mobile App,Not Started,2023-11-26,,1.8
+305,Python Basics,Mobile App,Dropped,2023-02-02,59.0,3.0
+306,SQL Fundamentals,,Dropped,2023-04-13,,1.2
+307,Machine Learning,Mobile App,Completed,2023-10-06,,3.5
+308,Machine Learning,Website,Dropped,2023-07-02,,
+309,Data Science,Referral,Not Started,2023-08-12,,1.2
+310,Machine Learning,,Dropped,2023-09-12,,4.2
+311,Data Science,,Not Started,2023-02-12,55.0,1.7
+312,Machine Learning,Website,Completed,2023-10-07,,2.5
+313,Excel for Business,,Not Started,2023-12-05,,3.5
+314,Python Basics,Email Campaign,Dropped,2023-08-07,,2.9
+315,Python Basics,Website,Dropped,2023-06-30,,1.1
+316,Excel for Business,,Dropped,2023-12-10,,
+317,Excel for Business,,In Progress,2023-12-14,21.0,3.0
+318,Excel for Business,Mobile App,Completed,2023-08-13,5.0,1.4
+319,Power BI,Website,,2023-07-07,,3.1
+320,SQL Fundamentals,Referral,Dropped,2023-03-20,,2.1
+321,SQL Fundamentals,Referral,,2023-02-09,74.0,1.1
+322,Python Basics,Website,In Progress,2023-06-10,,1.8
+323,Machine Learning,Website,,2023-04-06,,
+324,Excel for Business,Referral,,2023-05-14,58.0,3.4
+325,SQL Fundamentals,Website,In Progress,2023-09-09,26.0,4.2
+326,Excel for Business,Referral,Dropped,2023-03-30,57.0,1.3
+327,Excel for Business,Mobile App,Dropped,2023-02-03,,3.3
+328,Data Science,,Dropped,2023-12-30,90.0,2.7
+329,Python Basics,Email Campaign,In Progress,2023-03-04,26.0,2.1
+330,Data Science,,Not Started,2023-07-04,,3.6
+331,Excel for Business,Email Campaign,Dropped,2023-11-10,12.0,
+332,,,Not Started,2023-09-03,,3.4
+333,Excel for Business,Email Campaign,Not Started,2023-03-06,41.0,1.4
+334,Data Science,,,2023-09-22,45.0,2.0
+335,Data Science,,Completed,2023-03-08,56.0,1.7
+336,Machine Learning,Mobile App,Dropped,2023-06-05,22.0,
+337,Excel for Business,Mobile App,Dropped,2023-09-23,37.0,1.3
+338,Power BI,,Dropped,2023-10-10,36.0,
+339,Data Science,,,2023-02-17,65.0,1.4
+340,Python Basics,Website,,2023-03-29,,
+341,SQL Fundamentals,,In Progress,2023-02-11,,4.3
+342,Machine Learning,,Not Started,2023-11-13,82.0,1.7
+343,Machine Learning,Email Campaign,In Progress,2023-11-25,,4.7
+344,SQL Fundamentals,Email Campaign,In Progress,2023-08-21,10.0,3.3
+345,Data Science,,Dropped,2023-09-05,60.0,4.1
+346,Machine Learning,Mobile App,Not Started,2023-06-10,,2.3
+347,SQL Fundamentals,Mobile App,Dropped,2023-09-21,72.0,3.0
+348,,Mobile App,In Progress,2023-03-04,,1.5
+349,Data Science,Email Campaign,,2023-01-26,,2.2
+350,SQL Fundamentals,Mobile App,In Progress,2023-03-23,,1.6
+21,Excel for Business,Mobile App,In Progress,2023-02-16,7.0,1.5
+334,Data Science,,,2023-09-22,45.0,2.0
+325,SQL Fundamentals,Website,In Progress,2023-09-09,26.0,4.2
+226,,,,2023-12-31,,4.1
+188,Python Basics,Mobile App,,2023-01-05,,1.3
+144,Power BI,Mobile App,In Progress,2023-12-05,11.0,2.9
+248,Python Basics,Referral,Dropped,2023-04-19,,2.9
+56,Data Science,Website,Dropped,2023-09-17,34.0,2.2
+299,Python Basics,Referral,,2023-04-06,86.0,3.7
+264,Excel for Business,Website,Dropped,2023-01-20,,2.7
